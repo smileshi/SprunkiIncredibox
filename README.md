@@ -1,6 +1,6 @@
-# [Sprunki Game](https://sprunkiincredibox.com/) Game
+# [Sprunki Game](https://sprunkigame.site/) Game
 
-Welcome to the official repository for [SprunkiIncredibox.com](https://sprunkiincredibox.com/), the landing page for the Sprunki mod of the popular Incredibox music creation game.
+Welcome to the official repository for [sprunkigame.site](https://sprunkigame.site/), the landing page for the Sprunki mod of the popular Incredibox music creation game.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to the official repository for [SprunkiIncredibox.com](https://sprunkiin
 
 ## About
 
-[Sprunki Game](https://sprunkiincredibox.com/) is an innovative spin-off of the popular Incredibox music creation platform. This website serves as the main landing page and information hub for Sprunki Game, showcasing its unique features, gameplay, and community.
+[Sprunki Game](https://sprunkigame.site/) is an innovative spin-off of the popular Incredibox music creation platform. This website serves as the main landing page and information hub for Sprunki Game, showcasing its unique features, gameplay, and community.
 
 ## Features
 
@@ -73,7 +73,7 @@ For Vercel:
 
 ## Contributing
 
-We welcome contributions to improve SprunkiIncredibox.com! If you have suggestions or improvements:
+We welcome contributions to improve sprunkigame.site! If you have suggestions or improvements:
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/AmazingFeature`)
