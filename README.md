@@ -1,4 +1,4 @@
-# [Sprunki Incredibox](https://sprunkiincredibox.com/) Game
+# [Sprunki Game](https://sprunkiincredibox.com/) Game
 
 Welcome to the official repository for [SprunkiIncredibox.com](https://sprunkiincredibox.com/), the landing page for the Sprunki mod of the popular Incredibox music creation game.
 
@@ -14,12 +14,12 @@ Welcome to the official repository for [SprunkiIncredibox.com](https://sprunkiin
 
 ## About
 
-[Sprunki Incredibox](https://sprunkiincredibox.com/) is an innovative spin-off of the popular Incredibox music creation platform. This website serves as the main landing page and information hub for Sprunki Incredibox, showcasing its unique features, gameplay, and community.
+[Sprunki Game](https://sprunkiincredibox.com/) is an innovative spin-off of the popular Incredibox music creation platform. This website serves as the main landing page and information hub for Sprunki Game, showcasing its unique features, gameplay, and community.
 
 ## Features
 
 - Responsive design for optimal viewing on all devices
-- Interactive sections highlighting Sprunki Incredibox's key features
+- Interactive sections highlighting Sprunki Game's key features
 - Embedded game demo
 - Community testimonials
 - Comprehensive FAQ section
@@ -89,4 +89,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or support, please open an issue in this repository or contact us through our website.
 
-Enjoy creating sprunky beats with Sprunki Incredibox!
+Enjoy creating sprunky beats with Sprunki Game!
